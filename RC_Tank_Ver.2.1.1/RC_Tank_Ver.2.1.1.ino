@@ -99,7 +99,7 @@ void MoveForwardLeft(){
   digitalWrite(RightBackward, LOW);
   digitalWrite(LeftBackward, LOW);
   digitalWrite(RightForward, LOW);
-  digitalWrite(LeftForward, HIGH;
+  digitalWrite(LeftForward, HIGH);
   Serial.print ("forward left");
 }
 
@@ -107,7 +107,7 @@ void MoveForwardRight(){
   digitalWrite(RightBackward, LOW);
   digitalWrite(LeftBackward, LOW);
   digitalWrite(RightForward, HIGH);
-  digitalWrite(LeftForward, LOW;
+  digitalWrite(LeftForward, LOW);
   Serial.print ("forward right");
 }
 
@@ -115,7 +115,7 @@ void MoveBackwardLeft(){
   digitalWrite(RightBackward, HIGH);
   digitalWrite(LeftBackward, LOW);
   digitalWrite(RightForward, LOW);
-  digitalWrite(LeftForward, LOW;
+  digitalWrite(LeftForward, LOW);
   Serial.print ("backward left");
 }
 
@@ -123,7 +123,7 @@ void MoveBackwardRight(){
   digitalWrite(RightBackward, LOW);
   digitalWrite(LeftBackward, HIGH);
   digitalWrite(RightForward, LOW);
-  digitalWrite(LeftForward, LOW;
+  digitalWrite(LeftForward, LOW);
   Serial.print ("backward right"); 
 }
 
@@ -131,6 +131,6 @@ void Stop(){
   digitalWrite(RightBackward, LOW);
   digitalWrite(LeftBackward, LOW);
   digitalWrite(RightForward, LOW);
-  digitalWrite(LeftForward, LOW;
+  digitalWrite(LeftForward, LOW);
   Serial.print ("stop");  
 }
