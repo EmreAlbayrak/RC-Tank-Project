@@ -33,7 +33,23 @@ void loop(){
   MoveBackward();
   delay(2000);
   Stop();
-  delay(2000);  
+  delay(2000);
+  MoveForwardLeft();
+  delay(2000);
+  Stop();
+  delay(2000);
+  MoveBackwardLeft();
+  delay(2000);
+  Stop();
+  delay(2000);
+  MoveForwardRight();
+  delay(2000);
+  Stop();
+  delay(2000);
+  MoveBackwardRight();
+  delay(2000);
+  Stop();
+  delay(2000);
 }
 //----------------------------------------------- Functions
 void MoveForward(){
