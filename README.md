@@ -1,8 +1,7 @@
-# Arduino-RC-Tank
-Arduino RC 2 Channel Remote controller 
+# Arduino-RC-Tank-Project
 
-*-This program developed for RC Remote controlled arduino based robot tank.*
+*-Those programs developed for RC-RF Remote controlled arduino based robot tank.*
 
-*-I wrote this program with RC Arduino example programs.*
+*-I wrote some programs from RC and RF Arduino example codes.*
 
-*-This program is not tested correctly.*
+*-Some of scripts are not tested correctly.*
