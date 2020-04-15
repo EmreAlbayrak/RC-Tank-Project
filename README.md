@@ -1,3 +1,3 @@
-# Arduino-RC-Tank-Project
+# RC-Tank-Project
 
-*-Those programs developed for RC-RF Remote controlled arduino based robot tank.*
+*-This programs developed for RC-RF Remote controlled arduino based robot tank.*
