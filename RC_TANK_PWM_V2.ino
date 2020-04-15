@@ -3,7 +3,7 @@
  *Developer     : Emre Albayrak Istanbul/TURKEY
  *This program written for control the arduino based robot tank chassis with using two channel of RC module. 
  *It uses RC modul's two channel (throttle and steer) an mix them for tank motion principle.
- *For more https://github.com/EmreAlbayrak/Arduino-RC-RF-Tank-Project/.
+ *For more //github.com/EmreAlbayrak/RC-Tank-Project.
 */
 //---------------------- For motor driver
 #define RightBackward      6
